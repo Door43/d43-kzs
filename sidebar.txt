@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzs:home|Door43 (kzs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzs|d43-kzs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzs/archive/master.zip|d43-kzs.zip]]
+
+**Recent Changes**
+{{changes>ns = kzs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzs|Ethnologue data]]
+
